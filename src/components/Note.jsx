@@ -1,7 +1,7 @@
 import React from "react";
 function Note() {
   return (
-    <div class="note">
+    <div className="note">
       <h1>Heading</h1>
       <p>content</p>
     </div>
